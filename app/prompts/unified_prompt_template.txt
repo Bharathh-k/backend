@@ -1,0 +1,14 @@
+News Summary:
+{news_summary}
+
+Sectoral Summary:
+{sector_summary}
+
+Macroeconomic Summary:
+{macro_summary}
+
+Fundamental Summary:
+{fundamental_summary}
+
+Technical Summary:
+{technical_summary}
